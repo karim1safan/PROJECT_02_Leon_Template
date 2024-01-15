@@ -1,5 +1,5 @@
 ## Leon Template Design 
-I designed this template using <b>HTML, CSS</b>, and <br>Media Query</br>, there are some images you can take a look at.
+I designed this template using <b>HTML, CSS</b>, and <b>Media Query</b>, there are some images you can take a look at.
 
 ![image](https://github.com/karim1safan/PROJECT_02_Leon/assets/110535652/b43c29c8-c9ec-4f88-a6f0-a80a81d8337a)
 ![image](https://github.com/karim1safan/PROJECT_02_Leon/assets/110535652/00abcfc3-263c-418e-9d87-bf001734ba91)
